@@ -7,7 +7,7 @@ I found something pretty today and it made me think of you — soft, bright, and
 
 You're my queen of small things and big heart. Happy National Princess Day. 🌸
 
-— With all my love, Rushi`,
+— With all my love, Sharath`,
   cta: 'Open your gift ✨',
   toast: {
     copied: 'Message copied! Send it with a heart 💌',
