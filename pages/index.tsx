@@ -120,7 +120,7 @@ export default function Home() {
               day: 'numeric',
             })}
           </p>
-          <p className="text-xs mt-2">Made with 💕 by Rushi Chudasama</p>
+          <p className="text-xs mt-2">Made with 💕 by Sharath</p>
           <a
             href="#"
             onClick={handleBuyMeClick}
